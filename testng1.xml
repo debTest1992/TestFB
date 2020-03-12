@@ -1,0 +1,11 @@
+<suite name="Suite1" thread-count="0" >
+    <parameter name="username1" value="debasish.jena@finalcad.com" />
+    <parameter name="password1" value="Secret1234" />
+
+    <test name="testFC">
+        <classes>
+            <class name="TestFCDashboard.DropDown_test">
+            </class>
+        </classes>
+    </test>
+</suite>
